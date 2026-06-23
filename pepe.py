@@ -1,2 +1,2 @@
-print("canela")
+print("chico")
 print("pepi")
